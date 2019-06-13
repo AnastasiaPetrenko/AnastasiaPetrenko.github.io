@@ -1,0 +1,15 @@
+@font-face {
+  font-family: '8584';
+  src: url('8584.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Romul';
+  src: url('Romul.ttf') format('truetype'),
+       url('Romul.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
